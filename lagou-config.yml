@@ -1,0 +1,2 @@
+spring:
+  datasource: localhost:3305
