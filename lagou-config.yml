@@ -31,7 +31,7 @@ spring:
   rabbitmq:
     host: localhost
     port: 5672
-    username: guest
+    username: guest1
     password: guest
 eureka:
   client:
@@ -49,5 +49,5 @@ management:
     health:
       show-details: always
 limit:
- x: 1
- y: 1
+  x: 1
+  y: 1
